@@ -1,105 +1,72 @@
 
-<h1>hi human! :wave:</h1>
+<h1>hello student :wave:</h1>
 
-<h3>who am i?</h3>
+<h3>Jouu Boys its me Hubisohn</h3>
 
- - 🔭 I'm currently working on a lot of [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
+ - 🔭 I'm currently working on a lot of [side](https://github.com/Hubisohn) [projects](https://github.com/Hubisohn)!
  - 🌱 I'm currently learning React, Go, OpenGL and cybersecurity
- - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
- - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: [discord](https://discord.bio/p/khalby786) or [social](#social)
- - 😄 Pronouns: he/him
- - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
+ - 👯 I'm looking to collaborate with my stupide classmate's
+ - 🤔 I'm looking for help with JavaScript
+ - 💬 Ask me about C, Python, Java, MIPS Assembly
+ - 📫 How to reach me: [discord](dsc.bio/Hubisohn) or [social](#social)
+ - 😄 Pronouns: King/Emperor
+ - ⚡ Fun fact: I have [Instagram](https://www.instagram.com/manu_unterhuber/)
 
-<h3 id="social">contact me</h3>
+<h3 id="social">You can contact me</h3>
 
-<a href="//github.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//glitch.com/@khalby786"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
-<a href="//twitter.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
-<a href="//instagram.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
-<a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
-<a href="https://www.youtube.com/channel/UCrpLyU8D2wajlTae6qZx_eQ"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
-<a href="//codepen.io/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="mailto:hello@khaleelgibran.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
+<a href="//github.com/Hubisohn"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//glitch.com/@Hubisohn"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
+<a href="//twitter.com/hubisohn"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
+<a href="//instagram.com/manu_unterhuber"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="//twitch.tv/EndPexHD"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
+<a href="https://www.youtube.com/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
+<a href="//codepen.io/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
+<a href="mailto:stuntman@bx.fallmerayer.it"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
-
-
-<h3>things i am learning </h3>
-
-<br>
-
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="30px"></span>&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/768px-Android_Studio_Icon_3.6.svg.png" width="30px"></span>&nbsp;
 
 <h3>open source projects</h3>
 
 
 | Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
 |---------|-------|-------|--------|---------------|
-| Jsoning | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
-| MarkMe | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
-| GlitchyPastePen | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
-| REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
-| personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
-| vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) |
+| HangMan | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
+| El_Granjero | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
+| KontoObj | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
+| HeapSortTree | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
+| StockBotGPU3080 | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
+| TicketSystem | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) |
 
-<h3>my latest blog posts</h3>
-
-<!--START_SECTION:feed-->
-* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;reheader-has-more-stars-than-jsoning&#x2F;)
-* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;i-rickrolled-jenn-schiffer&#x2F;)
-* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;the-story-of-my-life&#x2F;)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
-* [Generated Static Projects on Glitch!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;generated-static-glitch&#x2F;)
-<!--END_SECTION:feed-->
-
-<h3>my dev.to posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
-<!-- BLOG-POST-LIST:END -->
 
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/khalby786/blog/pull/3) in [khalby786/blog](https://github.com/khalby786/blog)
-2. 💪 Opened PR [#385](https://github.com/lucasgdb/useful-dev-tools/pull/385) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
-3. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
-4. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-5. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+1. ❌ Closed PR [TicketSystem](https://github.com/Hubisohn/TicketSystem)
+2. 💪 Opened PR [HangMan](https://github.com/Hubisohn/HangMan)
+3. 💪 Opened PR [SkontoSystem](https://github.com/Hubisohn/SkontoSystem)
+4. 🗣 Commented on [Theme](https://github.com/Hubisohn/Hubisohn)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hubisohn&theme=github)
 
 <h3>my wonderful stats</h3>
 
 ```json
 {
-  "joined": "3 years ago",
-  "repos": "56",
-  "repos_contributed_to": "22",
-  "commits": "1733",
-  "stars": "329",
-  "issues": "21",
-  "pull_requests": "132"
+  "joined": "1 years ago",
+  "repos": "12",
+  "repos_contributed_to": "4",
+  "commits": "65",
+  "stars": "11",
+  "issues": "2",
+  "pull_requests": "8"
 }
 ```
 
@@ -107,15 +74,15 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 18 mins   █████████████████▒░░░░░░░   68.99 % 
-Python       53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Java             2 hrs 18 mins   █████████████████▒░░░░░░░   68.99 % 
+Python           53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
+Kotlin           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+C                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
 
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hubisohn&column=7&theme=onedark" />
 </div>
