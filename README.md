@@ -1,5 +1,5 @@
 
-<h1>hello student :wave:</h1>
+<h1>Hello student :wave:</h1>
 
 <h3>Jouu Boys its me Hubisohn</h3>
 
