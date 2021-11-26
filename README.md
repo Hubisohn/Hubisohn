@@ -9,7 +9,7 @@
  - 🤔 I'm looking for help with JavaScript
  - 💬 Ask me about C, Python, Java, MIPS Assembly
  - 📫 How to reach me: [discord](dsc.bio/Hubisohn) or [social](#social)
- - 😄 Pronouns: King/Emperor
+ - 😄 Pronouns: King/Emperor/My Lord
  - ⚡ Fun fact: I have [Instagram](https://www.instagram.com/manu_unterhuber/)
 
 <h3 id="social">You can contact me</h3>
