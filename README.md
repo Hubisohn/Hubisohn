@@ -3,7 +3,7 @@
 
 <h3>Jouu Boys its me Hubisohn</h3>
 
- - 🔭 I'm currently working on a lot of [side](https://github.com/Hubisohn) [projects](https://github.com/Hubisohn)!
+ - 🔭 I'm currently working on a lot of [side](https://github.com/Hubisohn?tab=repositories) [projects](https://github.com/Hubisohn?tab=repositories)!
  - 🌱 I'm currently learning React, Go, OpenGL and cybersecurity
  - 👯 I'm looking to collaborate with my stupide classmate's
  - 🤔 I'm looking for help with JavaScript
